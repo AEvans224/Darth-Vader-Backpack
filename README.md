@@ -10,6 +10,7 @@ BOM:
 - 1 5V Battery Pack
 - AR: PLA Filament
 - AR: Solder, Heat Shrink, 22 AWG wire
-- 
+
 <img width="800" height="1000" alt="belts" src="https://github.com/user-attachments/assets/1f066bd5-6c85-44bc-9e34-79aa9f1b7e1e" />
+
 The speaker system has an on-board rechargeable battery that is connected to switches installed in the arm strap.
