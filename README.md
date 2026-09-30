@@ -1,5 +1,5 @@
 # Darth-Vader-Backpack
-Darth Vader themed backpack that has LED sequence that matches Darth Vader's Chest Plate. Speaker system is placed in the belt pieces and blasts the sound of Darth Vader's breathing. The 3D printed files were modified from original files from Thingiverse.
+Darth Vader themed backpack that has LED sequence that matches Darth Vader's Chest Plate. Speaker system is placed in the belt pieces and blasts the sound of Darth Vader's breathing. The 3D printed files were modified from original files from Thingiverse. All four of the 3D printed objects were installed onto the backpack with zip ties. 
 <img width="800" height="1000" alt="backpack" src="https://github.com/user-attachments/assets/a625df56-6191-46fb-9b35-eb27cd345061" />
 BOM:
 - Arduino Nano
